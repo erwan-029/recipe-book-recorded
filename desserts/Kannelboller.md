@@ -4,7 +4,7 @@
 
 - Flour
 - Water
-- Margarine
+- Vegan butter
 - Sugar
 - Cinnamon
 - Salt
