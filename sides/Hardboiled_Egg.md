@@ -15,7 +15,11 @@
 
 ## Variations
 
+Cooking time:
 - 15 minutes: hard-boiled eggs
 - 13 minutes: slightly undercooked yolk eggs
 - 11 minutes: jammy eggs
 - 9 minutes: very soft eggs
+
+Cold water bath: One could use instead a ice bath (water + ice) for 2 minutes.
+
