@@ -1,4 +1,4 @@
-# Sobaos
+# Sobaos: delicious dessert from Cantabria in Northern Spain
 
 ## Ingredients
 - 1 kg flour
