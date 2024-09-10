@@ -3,12 +3,12 @@
 
 ## Ingredients
 
-- **9-12** no-boil lasagna noodles
+- **9-12** no-boil lasagna pasta
 - **1** large jar (about 24 oz) of marinara sauce
-- **15 oz** ricotta cheese
+- **15 oz** vegan ricotta cheese
 - **1** egg
-- **1/2 cup** grated Parmesan cheese
-- **2 cups** shredded mozzarella cheese
+- **1/2 cup** grated Parmesan vegan cheese
+- **2 cups** shredded vegan mozzarella cheese
 - **1 lb** fresh spinach, rinsed and chopped (or use frozen spinach, thawed and drained)
 - **1** medium zucchini, thinly sliced
 - **1** bell pepper, diced
